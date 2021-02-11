@@ -71,4 +71,4 @@ httpd.serve_forever()
 
 ## RESULT:
 Thus, a webserver is designed to display multiplication table and is hosted in the URL
-http://jayashreerao.student.saveetha.in/
+http://prasanna.student.saveetha.in/
